@@ -14,7 +14,7 @@ This repository contains my completed projects for the **AI/ML Engineering Inter
 - 📊 Exploratory data analysis using Python, Pandas, and Seaborn
 - 🤖 Predictive modeling with Scikit-learn (classification and regression)
 - 📈 Time series forecasting with real stock market data
-- 💬 LLM-powered chatbot using prompt engineering (OpenAI API)
+- 💬 LLM-powered chatbot using prompt engineering (AzureOpenAI API)
 - ✅ Clear evaluation with accuracy, AUC, confusion matrix, and visualizations
 
 ---
@@ -118,7 +118,7 @@ OpenAI GPT-3.5 via API
 | Visualization          | Seaborn, Matplotlib                             |
 | Machine Learning       | Scikit-learn (Logistic Regression, Decision Tree, Random Forest) |
 | Time Series            | yfinance API                                    |
-| Language Models        | OpenAI GPT-3.5 API                              |
+| Language Models        | AzureOpenAI GPT-4.1 mini API                              |
 | Workflow & IDE         | Jupyter Notebook, GitHub                        |
 
 ---
