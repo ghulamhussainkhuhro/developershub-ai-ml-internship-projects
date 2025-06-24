@@ -3,7 +3,7 @@
 This repository contains my completed projects for the **AI/ML Engineering Internship** at **DevelopersHub Corporation**. The focus is on applying machine learning, data analysis, and prompt engineering skills to real-world problems using structured datasets and large language models.
 
 > 🗓️ **Deadline:** June 26, 2025  
-> 🎓 **Intern:** *[Ghulam Hussain Khuhro]*  
+> 🎓 **Intern:** *Ghulam Hussain Khuhro*  
 > 🏢 **Organization:** DevelopersHub Corporation  
 > 📁 **Projects Completed:** 4
 
